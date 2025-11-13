@@ -1,2 +1,1 @@
-# Student-Data-Management-System
-8086 Assembly data management system. Handles 50×10 tables with string/numeric columns. Features smart sorting: numeric desc, string asc. Optimized for 8086 with register-heavy design and 8-char cell limits.
+Run this code in the emu8086 app. After running the code, it will ask for the column number, column name, column type (Numerical or String), as well as the row number and their input. It will show the input table and then ask by which column you want to sort the table data. It will sort numerical data in a descending manner and string data in alphabetical order.
